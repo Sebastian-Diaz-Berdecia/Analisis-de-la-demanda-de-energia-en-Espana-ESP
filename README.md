@@ -19,7 +19,7 @@ El objetivo de este proyecto es la construcción de un tablero o dashboard que r
 
 ## 🎨 Dashboard análisis financiero FuturoTecno
 
-<img width="1286" height="743" alt="image" src="https://github.com/user-attachments/assets/1d05f83c-ce0f-4c23-bb7c-f3d21aef14cd" />
+<img width="1286" height="743" alt="image" src="https://github.com/user-attachments/assets/6a44f4b0-9431-4fbd-ae74-81a6a2aa975c" />
 
 
 ## 🎨 Dashboard análisis financiero FuturoTecno
