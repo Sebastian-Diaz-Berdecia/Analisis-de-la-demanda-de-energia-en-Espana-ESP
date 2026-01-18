@@ -12,17 +12,17 @@ El objetivo de este proyecto es la construcción de un tablero o dashboard que r
 
 ---
 
-## 🎨 Dashboard análisis financiero FuturoTecno
+## 🎨 Solar power generation vs Time 
 
 <img width="1394" height="739" alt="image" src="https://github.com/user-attachments/assets/08361018-e1b6-437d-bf96-773b40a81cae" />
 
 
-## 🎨 Dashboard análisis financiero FuturoTecno
+## 🎨 Solar power generation vs Weather conditions
 
 <img width="1286" height="743" alt="image" src="https://github.com/user-attachments/assets/6a44f4b0-9431-4fbd-ae74-81a6a2aa975c" />
 
 
-## 🎨 Dashboard análisis financiero FuturoTecno
+## 🎨 Year-on-year variation solar power generation 
 
 <img width="1105" height="738" alt="image" src="https://github.com/user-attachments/assets/6dc4bfb5-d0e1-4221-928a-16e2f520f519" />
 
