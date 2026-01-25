@@ -43,7 +43,7 @@ A continuación se muestran los primeros 22 de los 1645 registros de los datos f
 <p align="center">
 <img width="830" height="284" alt="image" src="https://github.com/user-attachments/assets/0ad26d5b-fd72-4771-a661-c91e6df521af" />
 </p>
-Como se puede observar, los meses en los que se produce la mayor generación de energia solar entre los años de 2015 a 2018 es entre los meses de junio y agosto teniendo el pico de generacion en el mes de julio. Estos meses corresponden a los meses de verano, meses con la mayor incidencia de radiacion solar. 
+Como se puede observar, los meses en los que se produce la mayor generación de energia solar es entre los meses de junio y agosto teniendo el pico de generacion en el mes de julio. Estos meses corresponden a los meses de verano, meses con la mayor incidencia de radiacion solar. 
 
 ##
 
