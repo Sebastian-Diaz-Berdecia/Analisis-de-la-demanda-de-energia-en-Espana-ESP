@@ -58,6 +58,7 @@ Tal y como se puede apreciar entre los años 2015 y 2018, el año 2017 correspon
 <p align="center">
 <img width="830" height="292" alt="image" src="https://github.com/user-attachments/assets/0b4111af-958d-486d-ac25-00268cdf46a0" />
 </p>
+Aquí podemos observar como la generación de energia solar presenta un comportamiento ciclico en donde la producción de energia se dispara en los meses de verano produciendose así picos de generacion todos los meses de julio desde el 2015 al 2018, mientras que los meses de invierno vemos como la generacion disminuye presentandose los minimos de generación entre los meses de enero y diciembre. 
 
 ##
 
