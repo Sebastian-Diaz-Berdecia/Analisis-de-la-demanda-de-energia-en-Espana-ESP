@@ -62,6 +62,7 @@ Aquí podemos observar como la generación de energia solar presenta un comporta
 
 ##
 
+* #### Comportamiento ciclico de la generación: 
 <p align="center">
 <img width="664" height="361" alt="image" src="https://github.com/user-attachments/assets/c5710174-6b6c-410e-8a9f-82aea171ecec" />
 </p>
