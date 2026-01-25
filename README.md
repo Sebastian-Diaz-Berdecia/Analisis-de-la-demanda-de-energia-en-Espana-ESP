@@ -72,12 +72,14 @@ Dentro de los cuatro años entre 2015 y 2018, la energia solar nunca deja de pos
 
 ##
 
+* #### Generacion a lo largo del dia: 
 <p align="center">
 <img width="664" height="367" alt="image" src="https://github.com/user-attachments/assets/4a3f257b-c22c-42c7-bfd1-4e95b2a903e9" />
 </p>
 
 ##
 
+* #### Generacion a lo largo del dia vs : 
 <p align="center">
 <img width="605" height="345" alt="image" src="https://github.com/user-attachments/assets/27735c04-6d94-4d6a-9372-4eaa3109981f" />
 </p>
