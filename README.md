@@ -80,7 +80,7 @@ Se puede observar como a medida que se avanza hacia las 07:00 a.m. la generacion
 
 ##
 
-* #### Generacion a lo largo del dia vs : 
+* #### Generacion a lo largo del dia vs porcentaje de humedad: 
 <p align="center">
 <img width="605" height="345" alt="image" src="https://github.com/user-attachments/assets/27735c04-6d94-4d6a-9372-4eaa3109981f" />
 </p>
