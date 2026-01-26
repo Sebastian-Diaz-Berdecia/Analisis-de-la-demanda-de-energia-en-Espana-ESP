@@ -88,12 +88,15 @@ Al comparar el comportamiento de la generación de energia con el comportamiento
 
 ##
 
+* #### Generacion a lo largo del dia vs porcentaje de nubosidad: 
 <p align="center">
 <img width="605" height="336" alt="image" src="https://github.com/user-attachments/assets/57df3eca-e5db-41c8-a4e1-3cfb74a7f268" />
 </p>
 
+
 ##
 
+* #### Generacion a lo largo del dia vs temperatura promedio: 
 <p align="center">
 <img width="605" height="346" alt="image" src="https://github.com/user-attachments/assets/4fe26798-9df3-4403-b705-4f91f4d015df" />
 </p>
