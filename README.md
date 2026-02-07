@@ -5,9 +5,14 @@ El principal objetivo de este proyecto es analizar la evolución de la demanda/g
 
 ## 🗂 Índice 
 
-* ### [Dashboard.](https://github.com/Sebastian-Diaz-Berdecia/Analisis-financiero-FuturoTecno#-dashboard-an%C3%A1lisis-financiero-futurotecno)
+* ### [Generación de energía solar vs Tiempo.]
+* ### [Generación de energía solar vs Condiciones climaticas.]
+* ### [Variación interanual de la generación de energía solar.]
+* ### [Insights generación de energía solar.]
+* ### [Conclusión.]
+  
 * ### [Registros.](https://github.com/Sebastian-Diaz-Berdecia/Analisis-financiero-FuturoTecno/tree/main?tab=readme-ov-file#-registros-futurotecno)
-* ### [Ingresos, gastos, beneficios y márgenes.](https://github.com/Sebastian-Diaz-Berdecia/Analisis-financiero-FuturoTecno/tree/main?tab=readme-ov-file#-c%C3%A1lculo-de-los-ingresos-gastos-beneficios-y-m%C3%A1rgenes-totales)
+
 
 
 ---
