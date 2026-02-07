@@ -10,9 +10,6 @@ El principal objetivo de este proyecto es analizar la evolución de la demanda/g
 * ### [Variación interanual de la generación de energía solar.](https://github.com/Sebastian-Diaz-Berdecia/Energy-demand-analysis-in-Spain/blob/main/README.md#-variaci%C3%B3n-interanual-de-la-generaci%C3%B3n-de-energ%C3%ADa-solar)
 * ### [Insights generación de energía solar.](https://github.com/Sebastian-Diaz-Berdecia/Energy-demand-analysis-in-Spain/blob/main/README.md#-insights-generaci%C3%B3n-de-energ%C3%ADa-solar)
 * ### [Conclusión.](https://github.com/Sebastian-Diaz-Berdecia/Energy-demand-analysis-in-Spain/blob/main/README.md#-conclusi%C3%B3n)
-  
-* ### [Registros.](https://github.com/Sebastian-Diaz-Berdecia/Analisis-financiero-FuturoTecno/tree/main?tab=readme-ov-file#-registros-futurotecno)
-
 
 
 ---
