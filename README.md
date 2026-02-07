@@ -103,11 +103,15 @@ Como se puede observar en este gráfico, al comparar la temperatura media a lo l
 
 ##
 
-* #### Variación interanual de la generación por ciudad: 
+* #### Variación interanual de la generación por ciudad:
 
+<p align="left">
 <img width="488" height="500" alt="image" src="https://github.com/user-attachments/assets/872f9758-e95d-4ff5-bd99-3125cb4c75dd" />
+</p>
 
+<p align="right">
 <img width="499" height="498" alt="image" src="https://github.com/user-attachments/assets/63113a95-08b0-488b-9bc9-5a7c2db08b05" />
+</p>
 
 Aqui se puede observar como la generación de energía va cambiando de año a año. En general, de 2015 a 2016 en todas las ciudades se presenta una disminución de la generación de energía, de 2016 a 2017 la generación aumenta y finalmente de 2017 a 2018 vuelve a disminuir. Estas variaciones interanuales de la generación son muy similares de ciudad a ciudad.
 
