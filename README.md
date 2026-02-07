@@ -1,6 +1,6 @@
-# 📊 Análisis de la demanda de energía solar y de las condiciones climaticas en España
+# 📊 Análisis de la demanda de energía solar y de las condiciones climáticas en España
 
-El principal objetivo de este proyecto es analizar la evolución de la demanda/generación de energia solar en las cinco principales ciudades de españa (Madrid, Barcelona, Bilbao, Valencia y Sevilla) durante el periodo comprendido entre los años 2015 y 2018, así como también la forma en la que diversas variables climaticas afectan la demanda/generacion de la energia solar a lo largo del dia. 
+El principal objetivo de este proyecto es analizar la evolución de la demanda/generación de energía solar en las cinco principales ciudades de España (Madrid, Barcelona, Bilbao, Valencia y Sevilla) durante el periodo comprendido entre los años 2015 y 2018, así como también la forma en la que diversas variables climáticas afectan la demanda/generación de la energía solar a lo largo del día.
 
 
 ## 🗂 Índice 
@@ -19,7 +19,7 @@ El principal objetivo de este proyecto es analizar la evolución de la demanda/g
 <img width="1394" height="739" alt="image" src="https://github.com/user-attachments/assets/08361018-e1b6-437d-bf96-773b40a81cae" />
 
 
-## 🎨 Generación de energía solar vs Condiciones climaticas
+## 🎨 Generación de energía solar vs Condiciones climáticas
 
 
 <img width="1286" height="743" alt="image" src="https://github.com/user-attachments/assets/6a44f4b0-9431-4fbd-ae74-81a6a2aa975c" />
@@ -82,7 +82,7 @@ Al comparar el comportamiento de la generación de energía con el comportamient
 
 ##
 
-* #### Generacion a lo largo del dia vs porcentaje de nubosidad: 
+* #### Generación a lo largo del día vs porcentaje de nubosidad:
 <p align="center">
 <img width="605" height="336" alt="image" src="https://github.com/user-attachments/assets/57df3eca-e5db-41c8-a4e1-3cfb74a7f268" />
 </p>
