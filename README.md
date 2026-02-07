@@ -17,7 +17,7 @@ El principal objetivo de este proyecto es analizar la evolución de la demanda/g
 
 ---
 
-## 🎨 Generación de energía solar vs Tiempo
+## 🎨 Generación de energía solar vs Hora del día
 
 <img width="1394" height="739" alt="image" src="https://github.com/user-attachments/assets/08361018-e1b6-437d-bf96-773b40a81cae" />
 
